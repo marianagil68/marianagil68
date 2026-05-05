@@ -26,4 +26,4 @@ Python | AWS | Terraform | Apache Airflow | Docker | SQL | S3 | Glue | Athena | 
 
 ## Contacto
 
-LinkedIn: https://linkedin.com/in/TU-PERFIL
+LinkedIn: https://linkedin.com/in/mariana-gil-24667718
