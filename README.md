@@ -1,8 +1,9 @@
-# Hola, soy Mariana Gil
+Mariana Gil
 
 ## Data Engineer | AWS Infrastructure | Python
 
-Ingeniera en Sistemas con 29 años de experiencia liderando proyectos tecnológicos,
+Ingeniera en Sistemas de información, egresada de la UTN
+con 29 años de experiencia liderando proyectos tecnológicos,
 actualmente en transición hacia el mundo de los datos. Me especializo en 
 infraestructura cloud, pipelines de datos y orquestación de workflows.
 
